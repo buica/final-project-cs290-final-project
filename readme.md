@@ -3,7 +3,7 @@ CS290 Final Project
 Collaboration between:
 -Jackson Eggers
 -Calvin Bui
--Chase Warren
+-Chase Warren Test
 -Sarun Pitaksuteephong
 
 Description:
